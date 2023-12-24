@@ -1,4 +1,4 @@
-# Akash-N-G
+# InfinitiZEr0
 ## About Me
 I am Akash N G, an aspiring Data Scientist an AI Developer
 
