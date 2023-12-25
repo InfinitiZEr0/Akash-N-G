@@ -1,6 +1,6 @@
 # InfinitiZEr0
 ## About Me
-I am Akash N G, an aspiring Data Scientist an AI Developer
+I am Akash N G, Data Scientist an AI Developer
 
 ### Languages
 * Python
