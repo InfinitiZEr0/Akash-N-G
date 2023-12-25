@@ -1,4 +1,3 @@
-# InfinitiZEr0
 ## About Me
 I am Akash, Data Scientist and AI Developer
 
