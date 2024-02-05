@@ -1,5 +1,5 @@
 ## About Me
-I am Akash, Data Scientist and AI Developer
+I am Akash N G, aspiring Data Scientist and AI Developer
 
 ### Languages
 * Python
